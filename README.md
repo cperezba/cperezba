@@ -4,7 +4,13 @@ Hi 👋 My name is Carlos Perez
 Full-Stack DevOps Web Developer
 -------------------------------
 
-Passionate Full-Stack DevOps Engineer with one year of experience developing web applications and backend systems for a leading global company. During my time at Optum, I contributed to the development of high-traffic web applications, focusing on writing clear and maintainable code. My expertise lies in leveraging modern technologies and frameworks to build robust and scalable solutions. I have a deep understanding of software development best practices and strive to continuously improve my skills through ongoing learning and exploration. I am motivated by challenges and thrive in dynamic environments where I can apply my problem-solving skills. With a natural curiosity, I am always eager to explore new technologies and stay up-to-date with industry trends. Feel free to reach out to discuss collaborations or explore exciting opportunities in web application development and DevOps.
+Passionate Full-Stack DevOps Engineer with one year of experience developing web applications and backend systems for a leading global company. During my time at Optum, I contributed to the development of high-traffic web applications, focusing on writing clear and maintainable code. 
+
+My expertise lies in leveraging modern technologies and frameworks to build robust and scalable solutions. I have a deep understanding of software development best practices and strive to continuously improve my skills through ongoing learning and exploration. 
+
+I am motivated by challenges and thrive in dynamic environments where I can apply my problem-solving skills. With a natural curiosity, I am always eager to explore new technologies and stay up-to-date with industry trends. 
+
+Feel free to reach out to discuss collaborations or explore exciting opportunities in web application development and DevOps.
 
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [ca.perez.barr.dev](mailto:ca.perez.barr.dev)
