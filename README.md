@@ -16,10 +16,10 @@ Feel free to reach out to discuss collaborations or explore exciting opportuniti
 *   ✉️  You can contact me at [ca.perez.barr.dev](mailto:ca.perez.barr.dev)
 *   🧠  I'm learning Data Structures
 *   🤝  I'm open to collaborating on Java backend projects
-*   ⚡  I alternate between being an early bird and a night owl### Skills
+*   ⚡  I alternate between being an early bird and a night owl
 
-&nbsp;  
 
+### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
