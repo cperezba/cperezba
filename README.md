@@ -13,7 +13,7 @@ I am motivated by challenges and thrive in dynamic environments where I can appl
 Feel free to reach out to discuss collaborations or explore exciting opportunities in web application development and DevOps.
 
 *   🌍  I'm based in Minnesota
-*   ✉️  You can contact me at [ca.perez.barr.dev](mailto:ca.perez.barr.dev)
+*   ✉️  You can contact me at [ca.perez.barr.dev@gmail.com](mailto:ca.perez.barr.dev@gmail.com)
 *   🧠  I'm learning Data Structures
 *   🤝  I'm open to collaborating on Java backend projects
 *   ⚡  I alternate between being an early bird and a night owl
