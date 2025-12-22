@@ -1,16 +1,16 @@
-Hi 👋 My name is Carlos Perez
+Hi 👋 My name is Carlos - though most people know me as Charlie.  
 =============================
 
-Full-Stack DevOps Web Developer
+**Full-Stack Developer & DevOps Engineer | Mainframe Designer**
 -------------------------------
 
-Passionate Full-Stack DevOps Engineer with one year of experience developing web applications and backend systems for a leading global company. During my time at Optum, I contributed to the development of high-traffic web applications, focusing on writing clear and maintainable code. 
+I’m a Full-Stack DevOps Engineer & Mainframe Designer with nearly three years of experience designing and building reliable, scalable, and user-focused software solutions. My background spans web application development, backend systems, and mainframe design — giving me a strong appreciation for both legacy stability and modern innovation.
 
-My expertise lies in leveraging modern technologies and frameworks to build robust and scalable solutions. I have a deep understanding of software development best practices and strive to continuously improve my skills through ongoing learning and exploration. 
+What I value most in my work is clarity — writing code that not only functions efficiently but is also clean, maintainable, and meaningful to the next person who reads it. I approach every project as both an engineer and a learner, balancing structure with curiosity to create systems that are both elegant and practical.
 
-I am motivated by challenges and thrive in dynamic environments where I can apply my problem-solving skills. With a natural curiosity, I am always eager to explore new technologies and stay up-to-date with industry trends. 
+I’m drawn to environments that challenge assumptions and reward thoughtful problem-solving. Whether improving automation pipelines, refining architecture, or experimenting with new frameworks, I enjoy finding ways to make technology more intuitive and effective.
 
-Feel free to reach out to discuss collaborations or explore exciting opportunities in web application development and DevOps.
+If you’d like to connect, collaborate, or simply exchange ideas about development and DevOps, I’d be glad to start a conversation.
 
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [ca.perez.barr.dev@gmail.com](mailto:ca.perez.barr.dev@gmail.com)
