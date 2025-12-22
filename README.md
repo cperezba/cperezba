@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos - though most people know me as Charlie.  
+Hi 👋 My name is Carlos — though most people know me as Charlie.  
 =============================
 
 **Full-Stack Developer & DevOps Engineer | Mainframe Designer**
