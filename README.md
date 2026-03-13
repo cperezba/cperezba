@@ -1,16 +1,12 @@
-Hi 👋 My name is Carlos — though most people know me as Charlie.  
+Carlos Perez
 =============================
 
-**Full-Stack Developer & DevOps Engineer | Mainframe Designer**
+**Full‑Stack DevOps Engineer & Mainframe Designer**
 -------------------------------
 
-I’m a Full-Stack DevOps Engineer & Mainframe Designer with nearly three years of experience designing and building reliable, scalable, and user-focused software solutions. My background spans web application development, backend systems, and mainframe design — giving me a strong appreciation for both legacy stability and modern innovation.
+I’m a Full‑Stack DevOps Engineer and Mainframe Designer with nearly three years of experience delivering scalable Java‑ and JavaScript‑based applications, integrating RESTful and GraphQL APIs, and modernizing legacy mainframe and AngularJS systems in financial and healthcare environments. I’ve contributed to DB2‑backed mainframe batch workflows and customer‑communication pipelines at U.S. Bank, helped standardize operational workflows at Amazon, and implemented single‑spa microfrontends and clinical applications at Optum—always with an eye toward reliability, performance, and clear handoffs between systems and teams.
 
-What I value most in my work is clarity — writing code that not only functions efficiently but is also clean, maintainable, and meaningful to the next person who reads it. I approach every project as both an engineer and a learner, balancing structure with curiosity to create systems that are both elegant and practical.
-
-I’m drawn to environments that challenge assumptions and reward thoughtful problem-solving. Whether improving automation pipelines, refining architecture, or experimenting with new frameworks, I enjoy finding ways to make technology more intuitive and effective.
-
-If you’d like to connect, collaborate, or simply exchange ideas about development and DevOps, I’d be glad to start a conversation.
+I enjoy owning problems end‑to‑end: writing clean, maintainable code, tightening data flows across services, and collaborating with product, UX, and operations partners to ship features that actually solve business problems. Right now I’m based in Minnesota, strengthening my data structures foundations and especially interested in Java backend, microservices, and legacy‑modernization roles where I can help teams stabilize critical platforms while moving them forward. If you’re hiring for someone who can navigate both modern stacks and mainframe‑driven workflows, I’d be glad to connect and talk about how I can contribute to your team.
 
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [ca.perez.barr.dev@gmail.com](mailto:ca.perez.barr.dev@gmail.com)
