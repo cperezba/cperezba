@@ -1,7 +1,7 @@
 Carlos Perez
 =============================
 
-**Full‑Stack DevOps Engineer & Mainframe Designer**
+**Java Backend Engineer | Spring Boot · Angular · Microservices**
 -------------------------------
 
 Software engineer with professional experience delivering Java and Spring Boot backend systems in healthcare and financial services, complemented by formal full-stack training and active independent development in Java microservices and Spring Data JPA. 
