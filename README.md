@@ -4,9 +4,11 @@ Carlos Perez
 **Full‑Stack DevOps Engineer & Mainframe Designer**
 -------------------------------
 
-I’m a Full‑Stack DevOps Engineer and Mainframe Designer with nearly three years of experience delivering scalable Java‑ and JavaScript‑based applications, integrating RESTful and GraphQL APIs, and modernizing legacy mainframe and AngularJS systems in financial and healthcare environments. I’ve contributed to DB2‑backed mainframe batch workflows and customer‑communication pipelines at U.S. Bank, and implemented single‑spa microfrontends and clinical applications at Optum—always with an eye toward reliability, performance, and clear handoffs between systems and teams.
+Software engineer with professional experience delivering Java and Spring Boot backend systems in healthcare and financial services, complemented by formal full-stack training and active independent development in Java microservices and Spring Data JPA. 
 
-I enjoy owning problems end‑to‑end: writing clean, maintainable code, tightening data flows across services, and collaborating with product, UX, and operations partners to ship features that actually solve business problems. Right now I’m based in Minnesota, strengthening my data structures foundations and especially interested in Java backend, microservices, and legacy‑modernization roles where I can help teams stabilize critical platforms while moving them forward. If you’re hiring for someone who can navigate both modern stacks and mainframe‑driven workflows, I’d be glad to connect and talk about how I can contribute to your team.
+Additional professional background in enterprise mainframe environments — including COBOL, JCL, and DB2 at U.S. Bank — provides practical understanding of legacy system integration and data integrity patterns valued in fintech and healthcare. Brings full-stack capability in Angular microfrontends and RESTful API integration across clinical and financial platforms.
+
+
 
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [ca.perez.barr.dev@gmail.com](mailto:ca.perez.barr.dev@gmail.com)
