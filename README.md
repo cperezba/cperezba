@@ -9,11 +9,6 @@ Software engineer with professional experience delivering Java and Spring Boot b
 Additional professional background in enterprise mainframe environments — including COBOL, JCL, and DB2 at U.S. Bank — provides practical understanding of legacy system integration and data integrity patterns valued in fintech and healthcare. Brings full-stack capability in Angular microfrontends and RESTful API integration across clinical and financial platforms.
 
 
-
-*   🌍  I'm based in Minnesota
-*   🤝  I'm open to collaborating on Java backend projects
-
-
 ### Skills
 
 <table>
